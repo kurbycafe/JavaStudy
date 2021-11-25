@@ -1,4 +1,4 @@
-public class Main {
+public class JavaCondition {
     public static void main(String[] args) {
         int a = 38, b = 27;
         if (a==b){
