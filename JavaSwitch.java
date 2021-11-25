@@ -1,6 +1,6 @@
 public class JavaSwitch {
     public static void main(String[] args) {
-        int number = 134354;
+        int number = 134353;
         switch (number % 7){
             case 0:
                 System.out.println("Zero");
